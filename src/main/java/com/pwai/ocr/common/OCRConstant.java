@@ -29,4 +29,6 @@ public class OCRConstant {
      */
     public static final String URL_HEHE_TEST = "http://10.0.0.28:8889/icr/recognize_bank_card";
 
+    public static final String GIT_TEST = "git commit test";
+
 }
