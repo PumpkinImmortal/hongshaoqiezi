@@ -5,5 +5,4 @@ package com.pwai.ocr.common;
  */
 public class CommonUtil {
     public static final String TYPE_XINAN = "xinan";
-    public static final String TYPE_HUXIUXIU = "huxiuxiu";
 }
